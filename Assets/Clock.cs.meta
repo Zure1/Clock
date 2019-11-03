@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 916de853d6b88284698c365265d4584a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hoursTransform: {instanceID: 0}
+  - minutesTransform: {instanceID: 0}
+  - secondsTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
